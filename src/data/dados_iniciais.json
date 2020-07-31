@@ -1,0 +1,136 @@
+{
+  "categorias": [
+    {
+      "titulo": "Alfabeto",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Soletrar ajuda no aprendizado",
+        "url": "https://www.youtube.com/watch?v=rP6FbCn0Gnc&feature=youtu.be"
+      },
+
+
+
+
+      "videos": [
+        {
+          "titulo": "Crianças aprendem mais se divertindo",
+          "url": "https://www.youtube.com/watch?v=7E-NmfYbzJ8"
+        },
+        {
+          "titulo": "Aprenda Cantando o ABC",
+          "url": "https://www.youtube.com/watch?v=fqQ83cGkU4U&feature=youtu.be"
+        },
+        {
+          "titulo": "Alfabeto Fonético",
+          "url": "https://www.youtube.com/watch?v=-2ddIsKjTvE&feature=youtu.be"
+        },
+        {
+          "titulo": "Alfabeto Narrado",
+          "url": "https://www.youtube.com/watch?v=j6JTRujqtdM"
+        },
+        {
+          "titulo": "A B C Galinha Pintadinha",
+          "url": "https://www.youtube.com/watch?v=JNA4-mjSf00"
+        },
+        {
+          "titulo": "Música do Alfabeto",
+          "url": "https://www.youtube.com/watch?v=VgUAWAX5dcI"
+        },
+        {
+          "titulo": "Abecedário da XuXa",
+          "url": "https://www.youtube.com/watch?v=J-hp6DK1ttE"
+        },
+        {
+          "titulo": "A Música do ALfabeto",
+          "url": "https://www.youtube.com/watch?v=4p32dIO_wCE"
+        }        
+      ]
+    },
+    
+    {
+      "titulo": "Vogais",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "De forma divertida para melhor aprender",
+        "url": "https://www.youtube.com/watch?v=VJ31nf_TOGc&feature=youtu.be"
+      },
+      "videos": [
+        {
+          "titulo": "Aprendendo as Vogais",
+          "url": "https://www.youtube.com/watch?v=ppPMeWVz9IM&feature=youtu.be"
+        },
+        {
+          "titulo": "A E I O U Profissãoes",
+          "url": "https://www.youtube.com/watch?v=N2ZgJvTVD3I&feature=youtu.be"
+        },
+        {
+          "titulo": "Patati Patatá - A E I O U",
+          "url": "https://www.youtube.com/watch?v=AJShCAPr4Zc"
+        },
+        {
+          "titulo": "As Vogais",
+          "url": "https://www.youtube.com/watch?v=gXW7YMIBPiI"
+        }, 
+        {
+          "titulo": "A  Canção das Vogais",
+          "url": "https://www.youtube.com/watch?v=TXnueHfMiMY"
+        }
+      ]
+    },
+
+    {  
+      "titulo": "Histórias, Contos e Parlendas",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Estimular a imaginação da criança e aumentar seu vocabulário",
+        "url": "https://www.youtube.com/watch?v=8qFh4TKI0Io&feature=youtu.be"
+      },
+      "videos": [
+        {
+          "titulo": "Hoje é Domingo",
+          "url": "https://www.youtube.com/watch?v=AUbY_Xuu2Rk&feature=youtu.be"
+        },
+        {
+          "titulo": "Os Musicos de Bremen",
+          "url": "https://www.youtube.com/watch?v=J7Wyc9w1fXY&feature=youtu.be"
+        },
+        {
+          "titulo": "Se a Criança Governasse o Mundo",
+          "url": "https://www.youtube.com/watch?v=iXuJpBA3JcQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Peixe",
+          "url": "https://www.youtube.com/watch?v=_g34ENRtLqA&feature=youtu.be"
+        }
+      
+      ]
+    },
+    {
+      "titulo": "Educação Física",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Exercitar ajuda no desenvolvimento e coordenação motora",
+        "url": "https://www.youtube.com/watch?v=ncf5ZH1DUyU"
+      },
+
+      "videos": [
+        {
+          "titulo": "Sol e Lua",
+          "url": "https://www.youtube.com/watch?v=yi2FY2SUCZg&list=PLYIeT6aI2sEp5ie_zJN1nM6CeF-jIl_lx"
+        },
+        {
+          "titulo": "Tubarão",
+          "url": "https://www.youtube.com/watch?v=qGH_P4YjNJ4&list=PLYIeT6aI2sEp5ie_zJN1nM6CeF-jIl_lx&index=3"
+        },
+        {
+          "titulo": "Integração Motora",
+          "url": "https://www.youtube.com/watch?v=n3fkyCBNtp0&list=PLYIeT6aI2sEp5ie_zJN1nM6CeF-jIl_lx&index=6"
+        },
+        {
+          "titulo": "Dança do Sorvete",
+          "url": "https://www.youtube.com/watch?v=mPhHOpzm7HE"
+        }
+      ]
+    }
+  ]
+}
